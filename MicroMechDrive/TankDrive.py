@@ -10,6 +10,9 @@ robot = Robot()
 
 print('Semi-ready')
 print('http://10.19.67.180:5000/MoveTreads/?left=0.3&right=0.3&impulse=10')
+print(' or')
+print('http://127.0.0.1:5000/MoveTreads/?left=0.3&right=-0.3&impulse=10')
+print('')
 
 @app.route('/MoveTreads/', methods=['GET'])
 def MoveTreads():
