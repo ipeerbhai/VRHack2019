@@ -315,6 +315,7 @@ build/
 /Assets/AssetStoreTools*
 /Assets/GoogleVR/
 /ProjectSettings/
+/UX/microMech/Library/
 
 # Visual Studio 2015 cache directory
 /.vs/
