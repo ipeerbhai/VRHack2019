@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.micromech.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\github\\VRHack2019\\UX\\microMech\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "microMech [Testing]"
+        }
+      }
+    }
+  ]
+}
